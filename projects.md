@@ -52,3 +52,4 @@ Here are a list of projects that have or will be implementing ERC721A as part of
 - [Wizards of Etheen](https://https://wizardsofetheen.com/) | [Etherscan](https://etherscan.io/address/0x5139cfee9e8533d9f52be27be183ec60c7222274) | [Opensea](https://opensea.io/collection/the-wizards-of-etheen) | [Twitter](https://twitter.com/WizardsOfEtheen)
 - [Zucklords](https://zucklords.com/) | [Etherscan](https://etherscan.io/address/0x539130bd5916fe9fd1fa437cf8c61a8850938b5b) | [Opensea](https://opensea.io/collection/zucklords) | [Twitter](https://twitter.com/zucklords)
 - [Scumbugs](https://www.scumbugs.net/) | [Etherscan](https://etherscan.io/address/0xdf79224d959126bef179d3fe37de77de353a2bf6) | [Twitter](https://twitter.com/scumbugs_nft) | [OpenSea](https://opensea.io/collection/scumbugs)
+- [Fuzzy Fighters](https://fuzzyfighters.com/) | [Etherscan](https://etherscan.io/address/0xac0e8b91745ac44a6b19e4039cd6f297ef7e2744) | [Twitter](https://twitter.com/fuzzy_fighters)
